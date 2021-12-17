@@ -8,7 +8,7 @@ import json
 # model = None
 app = Flask(__name__)
 
-@app.route('/predict')
+@app.route('/predict', methods=['POST'])
 def predict_endpoint():
     test_data = request.get_json()
     test_data = np.array(test_data)
