@@ -5,7 +5,6 @@ from flask import Flask, request
 from flask import Response
 import json
 
-# model = None
 app = Flask(__name__)
 
 @app.route('/')
