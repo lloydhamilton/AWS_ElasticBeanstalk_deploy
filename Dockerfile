@@ -7,5 +7,5 @@ ENV YOUR_ENV=${YOUR_ENV} POETRY_VERSION=1.1.11
 RUN pip install "poetry==${POETRY_VERSION}"
 RUN poetry config virtualenvs.create false
 RUN poetry install
-EXPOSE 80
+EXPOSE 8080
 ENTRYPOINT ["python", "flask_api.py"]
