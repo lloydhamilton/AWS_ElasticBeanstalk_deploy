@@ -13,7 +13,7 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42
 )
 
-url = 'http://localhost:8080/predict'
+url = 'http://flask-api-dev.eu-west-2.elasticbeanstalk.com/predict'
 headers = {
     'Content-type': "application/json"
 }
