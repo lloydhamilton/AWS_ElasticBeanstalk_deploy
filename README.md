@@ -4,7 +4,7 @@
 
 This  repository contains source code referenced in the original medium article linked [here](https://medium.com/@lloyd.hamilton/deploying-docker-containerised-ml-models-on-aws-elastic-beanstalk-67cbfbb2def4)
 
-##Introduction
+## Introduction
 What do an iPhone photo library, an Amazon shopping basket and a Netflix home page all have in common?
 
 One way or another, each of these applications interacts with a Machine Learning model to improve user experience and to better serve end users.
