@@ -1,5 +1,8 @@
 # Deploying Docker Containerised ML Models on AWS Elastic Beanstalk
 
+![GitHub](https://img.shields.io/github/license/lloydhamilton/AWS_ElasticBeanstalk_deploy?logo=GitHub&style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/lloydhamilton/AWS_ElasticBeanstalk_deploy?logo=GitHub&style=plastic) ![](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=Docker) ![](https://img.shields.io/badge/-AWS-orange?style=plastic&logo=Amazon-AWS)
+
+
 <hr>
 
 This  repository contains source code referenced in the original medium article linked [here](https://medium.com/@lloyd.hamilton/deploying-docker-containerised-ml-models-on-aws-elastic-beanstalk-67cbfbb2def4)
